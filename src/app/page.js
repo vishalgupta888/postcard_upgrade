@@ -5,6 +5,6 @@ import { Box } from "@chakra-ui/react"
 export default function Home() {
    
   return (
-    <Box>Page</Box>
+    <Box>Postcard Travel Club</Box>
   )
 }
